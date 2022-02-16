@@ -193,7 +193,8 @@
     <a href="#"><img alt="Sahil Selfmade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SahilSelfmade&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SahilSelfmade&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Sahil Selfmade" height="192px"/>
+    <a href="#">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SahilSelfmade&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Sahil Selfmade" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
