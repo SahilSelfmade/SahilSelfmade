@@ -23,8 +23,8 @@
     Hello, I am Sahil Kaushal a <b>final year</b> undergraduate from <a href="http://www.ignou.ac.in/"> <b>Indira Gandhi National Open University (IGNOU)</b>, India.</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Mobile App Developer.</b>
      </em> 
+    &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp;
   <br>
-    <!-- &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbs. -->
     <!-- ,<br>who is <b>obsessed</b>
     with <b>Flutter</b> and always looking to find patterns of which are hidden in the data 
   </em> 
