@@ -1,9 +1,4 @@
-<h1 align="center">Hi , I'm Sahil Kaushal 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
-<p align="center">
-  <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a> -->
-</p>
+
 
 <br>
 
@@ -16,6 +11,10 @@
 
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sahil Kaushal </h1>
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=SahilSelfmade&label=Profile%20views&color=0e75b6&style=plastic" alt="Sahil Selfmade" /> 
+	
+</p>
 <h3 align="center"> Mobile App Developer </h3>
 
 <p align="center">
