@@ -47,7 +47,7 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilSelfmade&theme=algolia" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilSelfmade&theme=algolia" alt="SahilSelfmade" /></p>
 
 <br>
 <br>
@@ -110,7 +110,6 @@
   &emsp;
   <a href="#" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-
 &emsp;
 <a href="#" target="_blank">
 <img alt="BOOTSTRAP" src="https://img.shields.io/badge/-BOOTSTRAP-brightgreen">
@@ -191,10 +190,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href=""><img alt="Sahil Selfmade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SahilSelfmade&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="#"><img alt="Sahil Selfmade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SahilSelfmade&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SahilSelfmade&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Sahil Selfmade" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -203,13 +202,13 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/SahilSelfmade"><img alt="SahilSelfmade's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SahilSelfmade&custom_title=SahilSelfmade's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <br/>
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SahilSelfmade&layout=compact&theme=algolia" alt="SahilSelfmade" /></a> </p>
 
 ---
