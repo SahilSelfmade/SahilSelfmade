@@ -1,15 +1,7 @@
 
 
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=SahilSelfmade&label=Profile%20views&color=0e75b6&style=plastic" alt="Sahil Selfmade" /> 
-	
-</p>
-
 ## :sassy_man: About me
 
-<hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sahil Kaushal </h1>
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=SahilSelfmade&label=Profile%20views&color=0e75b6&style=plastic" alt="Sahil Selfmade" /> 
