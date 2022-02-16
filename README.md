@@ -16,16 +16,20 @@
 
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sahil Kaushal </h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist </h3>
+<h3 align="center"> Mobile App Developer </h3>
 
 <p align="center">
   <em>
     Hello, I am Sahil Kaushal a <b>final year</b> undergraduate from <a href="http://www.ignou.ac.in/"> <b>Indira Gandhi National Open University (IGNOU)</b>, India.</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Mobile App Developer.</b>
+     </em> 
+  <br>
+    <!-- &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbs. -->
+    <!-- ,<br>who is <b>obsessed</b>
     with <b>Flutter</b> and always looking to find patterns of which are hidden in the data 
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Quote : "Being SELFMADE is a state of mind, Once you put that mentality to work, You’ll success definitely.”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Quote : "Being SELFMADE is a state of mind, Once you put that mentality to work, You’ll success definitely.”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> -->
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
