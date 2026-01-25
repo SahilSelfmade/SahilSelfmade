@@ -194,7 +194,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/SahilSelfmade"><img alt="SahilSelfmade's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SelfmadeTechie&custom_title=SahilSelfmade's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/SahilSelfmade"><img alt="SahilSelfmade's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SahilSelfmade&custom_title=SahilSelfmade's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <br/>
